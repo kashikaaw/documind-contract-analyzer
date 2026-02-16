@@ -3,9 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-**Live Demo:** https://docmind-kashikawanchoo.streamlit.app/
-
 ![Demo](demo.gif)
 
 ---
