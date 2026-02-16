@@ -5,8 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Demo](demo.gif)
 
----
-
 A contract analysis tool that processes any document format—scanned PDFs, phone photos, fax-quality scans—and delivers risk assessment with negotiation recommendations.
 
 **Live Demo:** https://docmind-kashikawanchoo.streamlit.app/
