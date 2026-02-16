@@ -9,8 +9,6 @@ A contract analysis tool that processes any document format—scanned PDFs, phon
 
 **Live Demo:** https://docmind-kashikawanchoo.streamlit.app/
 
----
-
 ## Problem
 
 Most contract analysis tools fail with real-world documents:
