@@ -3,7 +3,12 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://docmind-kashikawanchoo.streamlit.app/)
+
+**Live Demo:** https://docmind-kashikawanchoo.streamlit.app/
+
+![Demo](demo.gif)
+
+---
 
 A contract analysis tool that processes any document format—scanned PDFs, phone photos, fax-quality scans—and delivers risk assessment with negotiation recommendations.
 
