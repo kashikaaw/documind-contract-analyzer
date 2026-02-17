@@ -402,7 +402,7 @@ st.markdown("""
         font-family: 'Inter', sans-serif;
         font-size: 1rem;
         font-weight: 600;
-        color: #0f172a !important;
+        color: #ffffff !important;
         background: transparent !important;
         margin: 1rem 0 0.5rem 0;
         padding-bottom: 0.25rem;
